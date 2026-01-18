@@ -1,0 +1,1 @@
+cmd_/home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/mychar.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/mychar.ko /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/mychar.o /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/mychar.mod.o;  true

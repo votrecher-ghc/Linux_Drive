@@ -1,0 +1,1 @@
+cmd_/home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/modules.order := {   echo /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/mychar.ko; :; } | awk '!x[$$0]++' - > /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/modules.order

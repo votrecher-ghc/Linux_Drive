@@ -1,0 +1,2 @@
+/home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/mychar.o
+

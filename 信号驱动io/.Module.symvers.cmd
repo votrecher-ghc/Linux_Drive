@@ -1,0 +1,1 @@
+cmd_/home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/Module.symvers := sed 's/\.ko$$/\.o/' /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/modules.order | scripts/mod/modpost -m -a  -o /home/ghc/桌面/GitCode/Linux_Drive/信号驱动io/Module.symvers -e -i Module.symvers   -T -
