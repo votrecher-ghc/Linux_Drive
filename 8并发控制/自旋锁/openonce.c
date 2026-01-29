@@ -36,7 +36,6 @@ int openonce_open(struct inode* pnode, struct file * pfile)
         printk("The device is opened already\n");
         return -1;
     }
-
     return 0;
 }
 
