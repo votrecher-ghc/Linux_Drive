@@ -262,7 +262,7 @@ void __exit fs4412key2_exit(void){
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("GHC");
-MODULE_DESCRIPTION("设备数练习代码");
+MODULE_DESCRIPTION("中断练习代码");
 
 module_init(fs4412key2_init);
 module_exit(fs4412key2_exit);

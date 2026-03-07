@@ -201,7 +201,7 @@ void __exit myled_exit(void){
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("GHC");
-MODULE_DESCRIPTION("设备数练习代码");
+MODULE_DESCRIPTION("设备树练习代码");
 
 module_init(myled_init);
 module_exit(myled_exit);
