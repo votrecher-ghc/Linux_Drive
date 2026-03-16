@@ -18,7 +18,7 @@ clean:
 	rm -rf  *.o  *.ko  .*.cmd  *.mod.*  modules.order  Module.symvers   .tmp_versions *.mod
 
 else
-obj-m += mpu6050_driver.o
+obj-m += fs4412_mpu6050.o
 
 
 endif
