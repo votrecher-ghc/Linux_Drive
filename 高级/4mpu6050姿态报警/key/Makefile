@@ -19,6 +19,6 @@ clean:
 
 else
 
-obj-m += fs4412_key2.o
+obj-m += fs4412_key.o
 
 endif
